@@ -7,24 +7,24 @@
 [![](https://img.shields.io/github/workflow/status/ZettaStudios/crossfire/macOS%20Big%20Sur%2011.0%20-%20Java%20-%20Maven?label=macOS%20Big%20Sur%2011.0&logo=apple&style=flat-square)](https://github.com/ZettaStudios/crossfire/actions/workflows/macos-11.0-java-maven.yml)
 [![](https://img.shields.io/github/workflow/status/ZettaStudios/crossfire/macOS%20Catalina%2010.15%20-%20Java%20-%20Maven?label=macOS%20Catalina%2010.15&logo=apple&style=flat-square)](https://github.com/ZettaStudios/crossfire/actions/workflows/macos-10.15-java-maven.yml)
 
-English | [Português](README.pt-PT.md)
+[English](README.md) | Português
 
-# CrossFire Emulator (Java Version)
-**Hello everyone!** This is an **ambitious project**. We have many goals yet to be achieved and we would **appreciate** any and all help. We are happy to make the **source code** of our server available, many of the Enum already created are in correct order and with their proper typing for writing packages. Use the server as you wish, we have no restrictions as long as you assign credits to this repository.
+# CrossFire Emulator (Versão Java)
+**Olá a todos!** Este é um **projecto ambicioso**, temos ainda muitos objetivos a atingir e gostaríamos de **apreciar** qualquer ajuda que nos é fornecido. Estamos felizes por disponibilizar o **código fonte** do nosso servidor, muitos dos Enum já criados estão na ordem correta e com a sua correta escrita para enviar os packets. Utilize o servidor como desejar, não temos restrições desde que atribua os créditos deste repositório.
 
-## Overview
-This is a project being developed by the community, and is not affiliated with any of the companies belonging to [Neowiz](https://www.neowiz.com/), [Playgra (Arario)](http://playgra.com/), [VTC Game](https://www.vtcgame.vn/), [Tencent](https://www.tencent.com/), [Z8Games](https://www.z8games.com/), [GameClub](https://www.gameclub.ph/) and [LYTO](https://www.lytogame.com/). The project is developed with Java version 8 making it possible to run it on most servers today, and with the build automation tool called Maven.
+## Visão geral
+Isto é um projeto que está a ser desenvolvida pela comunidade, e não está afiliado a nenhuma das empresas pertencentes à [Neowiz](https://www.neowiz.com/), [Playgra (Arario)](http://playgra.com/), [VTC Game](https://www.vtcgame.vn/), [Tencent](https://www.tencent.com/), [Z8Games](https://www.z8games.com/), [GameClub](https://www.gameclub.ph/) and [LYTO](https://www.lytogame.com/). O projeto é desenvolvido com o Java versão 8 possibilitando que seja possível executar em maioria dos servidores de hoje em dia, e com a ferramenta de automação de compilação chamada Maven.
 
-## Authentication on Login Server
-The project still does not have any management for databases or simulators, the same to simulate the login server uses a static data for the purpose of tests. Later on, a whole interface for this management will be implemented.
+## Autenticação no servidor de Login
+O projeto ainda não tem qualquer tipo de gestão de bases de dados ou simuladores, o mesmo para simular o servidor de login, utilizamos dados estáticos para efeitos de testes. Mais tarde, será implementada toda uma interface para este tipo de gestão.
 
-Below is the data to perform the authentication.
+Abaixo estão os dados para efetuar a autenticação.
 
 | |LOGIN|PASSWORD|
 |---|---|---|
-|Account|`oreki`|`oreki`
+|Conta|`oreki`|`oreki`
 
 ## UML Diagrams
-A small sketch of the server's network.
+Um pequeno esquema sobre a network do servidor.
 
 ![](diagram.png)

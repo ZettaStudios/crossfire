@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>to.zettagames</groupId>
+        <artifactId>CrossFire-Emulator</artifactId>
+        <version>dev</version>
+    </parent>
+
+    <artifactId>CrossFire-Emulator-Login</artifactId>
+    <version>${git.commit.id.abbrev}</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>to.zettagames</groupId>
+            <artifactId>CrossFire-Emulator-Shared</artifactId>
+            <version>dev</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.2.0</version>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <addDefaultEntries>false</addDefaultEntries>
+                            <mainClass>to.zettagames.crossfire.emulator.login.Login</mainClass>
+                        </manifest>
+                    </archive>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
