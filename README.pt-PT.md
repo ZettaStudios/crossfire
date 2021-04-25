@@ -1,4 +1,11 @@
 ![](banner.jpg)
+[![](https://img.shields.io/github/workflow/status/ZettaStudios/crossfire/Ubuntu%2016.04%20-%20Java%20-%20Maven?label=Ubuntu%2016.04&logo=ubuntu&logoColor=white&style=flat-square)](https://github.com/ZettaStudios/crossfire/actions/workflows/ubuntu-16.04-java-maven.yml)
+[![](https://img.shields.io/github/workflow/status/ZettaStudios/crossfire/Ubuntu%2018.04%20-%20Java%20-%20Maven?label=Ubuntu%2018.04&logo=ubuntu&logoColor=white&style=flat-square)](https://github.com/ZettaStudios/crossfire/actions/workflows/ubuntu-18.04-java-maven.yml)
+[![](https://img.shields.io/github/workflow/status/ZettaStudios/crossfire/Ubuntu%2020.04%20-%20Java%20-%20Maven?label=Ubuntu%2020.04&logo=ubuntu&logoColor=white&style=flat-square)](https://github.com/ZettaStudios/crossfire/actions/workflows/ubuntu-20.04-java-maven.yml)
+[![](https://img.shields.io/github/workflow/status/ZettaStudios/crossfire/Windows%202016%20-%20Java%20-%20Maven?label=Windows%202016&logo=windows&style=flat-square)](https://github.com/ZettaStudios/crossfire/actions/workflows/windows-2016-java-maven.yml)
+[![](https://img.shields.io/github/workflow/status/ZettaStudios/crossfire/Windows%202019%20-%20Java%20-%20Maven?label=Windows%202019&logo=windows&style=flat-square)](https://github.com/ZettaStudios/crossfire/actions/workflows/windows-2019-java-maven.yml)
+[![](https://img.shields.io/github/workflow/status/ZettaStudios/crossfire/macOS%20Big%20Sur%2011.0%20-%20Java%20-%20Maven?label=macOS%20Big%20Sur%2011.0&logo=apple&style=flat-square)](https://github.com/ZettaStudios/crossfire/actions/workflows/macos-11.0-java-maven.yml)
+[![](https://img.shields.io/github/workflow/status/ZettaStudios/crossfire/macOS%20Catalina%2010.15%20-%20Java%20-%20Maven?label=macOS%20Catalina%2010.15&logo=apple&style=flat-square)](https://github.com/ZettaStudios/crossfire/actions/workflows/macos-10.15-java-maven.yml)
 
 [English](README.md) | Português
 
