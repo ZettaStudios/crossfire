@@ -1,4 +1,5 @@
 ![](banner.jpg)
+[![](https://img.shields.io/discord/838558080621871114?label=Discord&logo=discord&style=flat-square)](https://discord.gg/M44QqJmw3u)
 [![](https://img.shields.io/github/workflow/status/ZettaStudios/crossfire/Ubuntu%2016.04%20-%20Java%20-%20Maven?label=Ubuntu%2016.04&logo=ubuntu&logoColor=white&style=flat-square)](https://github.com/ZettaStudios/crossfire/actions/workflows/ubuntu-16.04-java-maven.yml)
 [![](https://img.shields.io/github/workflow/status/ZettaStudios/crossfire/Ubuntu%2018.04%20-%20Java%20-%20Maven?label=Ubuntu%2018.04&logo=ubuntu&logoColor=white&style=flat-square)](https://github.com/ZettaStudios/crossfire/actions/workflows/ubuntu-18.04-java-maven.yml)
 [![](https://img.shields.io/github/workflow/status/ZettaStudios/crossfire/Ubuntu%2020.04%20-%20Java%20-%20Maven?label=Ubuntu%2020.04&logo=ubuntu&logoColor=white&style=flat-square)](https://github.com/ZettaStudios/crossfire/actions/workflows/ubuntu-20.04-java-maven.yml)
